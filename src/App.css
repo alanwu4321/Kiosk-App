@@ -1,0 +1,35 @@
+.App-logo {
+  animation: spin infinite 20s linear;
+  height: 20px;
+}
+
+.App-header {
+  background-color:none ;
+  padding: 25px;
+  color: grey;
+  text-align: center;
+  margin-bottom: -10px;
+}
+
+.App-intro {
+  font-size: small;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.App-logo1 {
+  /*animation: spin infinite 15s linear;*/
+  height: 10px;
+  position: relative;
+  top:-11px;
+  left: 2px;
+}
+
+.blockquote-footer {
+
+margin-bottom: -50px !important;
+
+}
