@@ -1,4 +1,4 @@
 # React Quiz
 
-[View demo](htttps://kiosk.alan-wu.com)
+[View demo](https://kiosk.alan-wu.com)
 
