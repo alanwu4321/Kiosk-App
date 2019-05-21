@@ -19,8 +19,8 @@ import WorkplaceLevel1WOB from '../api/Pic/Workplace/HighRisk/close/70occupation
 import WorkplaceLevel1M from '../api/Pic/Workplace/HighRisk/close/97level_1_first_aid_kit_with_metal_case-2-15.jpg';
 
 
-import WorkplaceLevel2 from '../api/Pic/Workplace/HighRisk/close/186.85level2_16+.jpg';
-import WorkplaceLevel3 from '../api/Pic/Workplace/HighRisk/distant/251.85occupational_first_aid_level_3_with_bvm_-_opa_-_suction_unit_set11+.jpg';
+import WorkplaceLevel2 from '../api/Pic/Workplace/HighRisk/close/186.85level2_16.jpg';
+import WorkplaceLevel3 from '../api/Pic/Workplace/HighRisk/distant/251.85occupational_first_aid_level_3_with_bvm_-_opa_-_suction_unit_set11.jpg';
 
 import BasicKit from '../api/Pic/Workplace/Low/close/43.75basic2-10.jpg';
 
